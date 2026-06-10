@@ -1,4 +1,4 @@
-```markdown
+
 # 🎒 PokéDex - Praticando POO em Java
 
 Um projeto simples e divertido desenvolvido em **Java** para consolidar e colocar em prática os pilares fundamentais da **Programação Orientada a Objetos (POO)**. O projeto simula o funcionamento de uma PokéDex, controlando as características e ações de um Pokémon.
@@ -50,3 +50,5 @@ Classe responsável por rodar o jogo, onde instanciamos o Pokémon (ex: *Charman
     Execute a classe Main.java.
 
 Projeto desenvolvido com o objetivo de fixar os fundamentos de Java e Programação Orientada a Objetos de forma leve e prática! 🚀
+
+
